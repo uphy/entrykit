@@ -3,7 +3,7 @@ package render
 import (
 	"io/ioutil"
 
-	"github.com/progrium/entrykit"
+	"github.com/uphy/entrykit"
 	"github.com/uphy/sigil"
 
 	_ "github.com/uphy/sigil/builtin"
