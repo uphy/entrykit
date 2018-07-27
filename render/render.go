@@ -3,10 +3,10 @@ package render
 import (
 	"io/ioutil"
 
-	"github.com/gliderlabs/sigil"
 	"github.com/progrium/entrykit"
+	"github.com/uphy/sigil"
 
-	_ "github.com/gliderlabs/sigil/builtin"
+	_ "github.com/uphy/sigil/builtin"
 )
 
 func init() {
