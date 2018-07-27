@@ -9,3 +9,4 @@ cmd/prehook
 cmd/render
 cmd/waitgrp
 codep/codep/codep
+/dist

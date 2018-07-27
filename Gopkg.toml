@@ -1,0 +1,15 @@
+[[constraint]]
+  branch = "master"
+  name = "github.com/uphy/sigil"
+
+[[override]]
+  branch = "master"
+  name = "github.com/jmespath/go-jmespath"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/kardianos/osext"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/mgood/go-posix"
